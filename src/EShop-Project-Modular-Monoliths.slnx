@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Bootstrapper/">
+    <Project Path="Bootstrapper/API/API.csproj" Id="322ea492-540c-479b-9935-3df689f6ac0e" />
+  </Folder>
+  <Folder Name="/Modules/" />
+  <Folder Name="/Modules/Basket/">
+    <Project Path="Modules/Basket/Basket/Basket.csproj" Id="8c7d6bc1-0197-44bb-a339-7ff7df9738b3" />
+  </Folder>
+  <Folder Name="/Modules/Catalog/">
+    <Project Path="Modules/Catalog/Catalog/Catalog.csproj" Id="e753e79b-acc5-478d-b9ba-24ea788767b4" />
+  </Folder>
+  <Folder Name="/Modules/Ordering/">
+    <Project Path="Modules/Ordering/Ordering/Ordering.csproj" Id="1de74e0a-57b6-4f62-b3f6-f467418fd162" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared/Shared.csproj" Id="d9340dc3-98b5-4b76-b624-e88568f40853" />
+  </Folder>
+</Solution>
